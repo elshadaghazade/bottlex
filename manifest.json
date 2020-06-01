@@ -1,0 +1,15 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "bottlex",
+  "short_name": "bottlex",
+  "start_url": "/?utm_source=web_app_manifest",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=io.bottlex.bottlex",
+      "id": "io.bottlex.bottlex"
+    }
+  ],
+  "prefer_related_applications": true
+}
